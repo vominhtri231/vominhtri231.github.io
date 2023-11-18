@@ -1,11 +1,10 @@
 {
   "keys": [
-    {
-      "kty": "RSA",
-      "n": "ldqCWZbyf8wlVKP6McLm71e5XvfcZ_gqLpEVrDWs9IxXIlBl-PyB4S_J62nmFhxw64Bu-FCWHyVx1BscfYVhPF_YFhGwKm88hnkl4rORYBH6_QVF0DpbAnYxaC1b_8W90F-mtfLup6YhBETPY1c-HUFEVu2hikgvpEtH2z92Q6ANSSqUd1NNH0IQgMO6qOow-X-lVJK26L8RBQjt4D-lUT9yZLHW21-5lmcTMeFuplqgSocdVWzScxJ3M8Lr7Uo_wkim4dlHhpqyzwTzqvSKrVr44kVnYC-X1LhxtYFZjqPy5zK2QJiX8AF4ebtNIU4bhIixZhNUafvwv3C83wfsww",
-      "e": "AQAB",
-      "alg": "RS256",
-      "kid": "uge"
-    }
+      {
+          "kty": "RSA",
+          "n": "rpYRCM-zQ-qFOkDjLSyhmEDvnXaSSgKAQqlAwS3c6SZH2GZqVGdDdGbi5-8QOU7n0e13jtsnF9w7n4lJQ90kICoLN6EDmeiRpv5TOzzQm1jDcvrm1WOkm67s0EWRqqeD452uaM_sqY9v6E4mFtmDej394D8bB6ylwpGDe4hAdlAiuikJFHzUSeWSEgYxMiWQVStTu7nBnmTO6ra9EOIM01iESGrFJNOmKfhyizGT1AAEPInoLeBdNZy8Amm3VthOcGM4p9VwuDvHstD3COq7nQnL49xqiQKyF0ilYcV-oh8wq0nmS1DQ7qhjy-zwUWH73nt2ewEq8xUJQsO32zl2ZQ",
+          "e": "AQAB",
+          "kid": "MVP_UGESPORT_2023"
+      }
   ]
 }
